@@ -1,7 +1,7 @@
 # Matrix-Multiplication-Using-Hadoop
 
 Steps to execute Hadoop Program
-1. Setup JAVA_HOME to system variables
+1. Setup JAVA_HOME to system variables. link to setup JAVA_HOME https://www.wikihow.com/Set-Java-Home
 2. Download Ubuntu
 3. To download Hadoop, execute these commands
     1) cd
